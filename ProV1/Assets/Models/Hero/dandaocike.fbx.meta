@@ -1,0 +1,731 @@
+fileFormatVersion: 2
+guid: e1a150605717541e9ad3c629ffc189eb
+timeCreated: 1507211371
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint1
+    100004: joint10
+    100006: joint10 1
+    100008: joint11
+    100010: joint12
+    100012: joint2
+    100014: joint3
+    100016: joint4
+    100018: joint5
+    100020: joint6
+    100022: joint7
+    100024: joint7 1
+    100026: joint8
+    100028: joint8 1
+    100030: joint9
+    100032: nurbsCircle10
+    100034: nurbsCircle3
+    100036: polySurface439
+    100038: polySurface445
+    100040: polySurface446
+    100042: polySurface446 1
+    100044: polySurface447
+    100046: polySurface448
+    100048: polySurface449
+    100050: polySurface450
+    100052: transform100
+    100054: transform101
+    100056: transform102
+    100058: transform96
+    100060: transform97
+    100062: transform98
+    100064: transform99
+    400000: //RootNode
+    400002: joint1
+    400004: joint10
+    400006: joint10 1
+    400008: joint11
+    400010: joint12
+    400012: joint2
+    400014: joint3
+    400016: joint4
+    400018: joint5
+    400020: joint6
+    400022: joint7
+    400024: joint7 1
+    400026: joint8
+    400028: joint8 1
+    400030: joint9
+    400032: nurbsCircle10
+    400034: nurbsCircle3
+    400036: polySurface439
+    400038: polySurface445
+    400040: polySurface446
+    400042: polySurface446 1
+    400044: polySurface447
+    400046: polySurface448
+    400048: polySurface449
+    400050: polySurface450
+    400052: transform100
+    400054: transform101
+    400056: transform102
+    400058: transform96
+    400060: transform97
+    400062: transform98
+    400064: transform99
+    4300000: polySurface446
+    7400000: dandaocike gongjizhunbei2
+    7400002: dandaocike zoulu
+    7400004: dandaocike jingzhi
+    7400006: dandaocike gongji
+    7400008: dandaocike gongjizhunbei
+    7400010: dandaocike1
+    9500000: //RootNode
+    13700000: polySurface446
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: anisotropic36
+    second: {fileID: 2100000, guid: 3f73fc792ce1b440288ff9d96b577d85, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dandaocike1
+      takeName: dandaocike1
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface439
+        weight: 1
+      - path: polySurface439/polySurface445
+        weight: 1
+      - path: polySurface439/polySurface445/transform99
+        weight: 1
+      - path: polySurface439/polySurface446 1
+        weight: 1
+      - path: polySurface439/polySurface446 1/transform102
+        weight: 1
+      - path: polySurface439/polySurface447
+        weight: 1
+      - path: polySurface439/polySurface447/transform97
+        weight: 1
+      - path: polySurface439/polySurface448
+        weight: 1
+      - path: polySurface439/polySurface448/transform98
+        weight: 1
+      - path: polySurface439/polySurface449
+        weight: 1
+      - path: polySurface439/polySurface449/transform100
+        weight: 1
+      - path: polySurface439/polySurface450
+        weight: 1
+      - path: polySurface439/polySurface450/transform101
+        weight: 1
+      - path: polySurface439/transform96
+        weight: 1
+      - path: polySurface446
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dandaocike zoulu
+      takeName: dandaocike1
+      firstFrame: 6
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface439
+        weight: 1
+      - path: polySurface439/polySurface445
+        weight: 1
+      - path: polySurface439/polySurface445/transform99
+        weight: 1
+      - path: polySurface439/polySurface446 1
+        weight: 1
+      - path: polySurface439/polySurface446 1/transform102
+        weight: 1
+      - path: polySurface439/polySurface447
+        weight: 1
+      - path: polySurface439/polySurface447/transform97
+        weight: 1
+      - path: polySurface439/polySurface448
+        weight: 1
+      - path: polySurface439/polySurface448/transform98
+        weight: 1
+      - path: polySurface439/polySurface449
+        weight: 1
+      - path: polySurface439/polySurface449/transform100
+        weight: 1
+      - path: polySurface439/polySurface450
+        weight: 1
+      - path: polySurface439/polySurface450/transform101
+        weight: 1
+      - path: polySurface439/transform96
+        weight: 1
+      - path: polySurface446
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dandaocike jingzhi
+      takeName: dandaocike1
+      firstFrame: 30
+      lastFrame: 175
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface439
+        weight: 1
+      - path: polySurface439/polySurface445
+        weight: 1
+      - path: polySurface439/polySurface445/transform99
+        weight: 1
+      - path: polySurface439/polySurface446 1
+        weight: 1
+      - path: polySurface439/polySurface446 1/transform102
+        weight: 1
+      - path: polySurface439/polySurface447
+        weight: 1
+      - path: polySurface439/polySurface447/transform97
+        weight: 1
+      - path: polySurface439/polySurface448
+        weight: 1
+      - path: polySurface439/polySurface448/transform98
+        weight: 1
+      - path: polySurface439/polySurface449
+        weight: 1
+      - path: polySurface439/polySurface449/transform100
+        weight: 1
+      - path: polySurface439/polySurface450
+        weight: 1
+      - path: polySurface439/polySurface450/transform101
+        weight: 1
+      - path: polySurface439/transform96
+        weight: 1
+      - path: polySurface446
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dandaocike gongji
+      takeName: dandaocike1
+      firstFrame: 211
+      lastFrame: 223
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface439
+        weight: 1
+      - path: polySurface439/polySurface445
+        weight: 1
+      - path: polySurface439/polySurface445/transform99
+        weight: 1
+      - path: polySurface439/polySurface446 1
+        weight: 1
+      - path: polySurface439/polySurface446 1/transform102
+        weight: 1
+      - path: polySurface439/polySurface447
+        weight: 1
+      - path: polySurface439/polySurface447/transform97
+        weight: 1
+      - path: polySurface439/polySurface448
+        weight: 1
+      - path: polySurface439/polySurface448/transform98
+        weight: 1
+      - path: polySurface439/polySurface449
+        weight: 1
+      - path: polySurface439/polySurface449/transform100
+        weight: 1
+      - path: polySurface439/polySurface450
+        weight: 1
+      - path: polySurface439/polySurface450/transform101
+        weight: 1
+      - path: polySurface439/transform96
+        weight: 1
+      - path: polySurface446
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dandaocike gongjizhunbei
+      takeName: dandaocike1
+      firstFrame: 240
+      lastFrame: 264
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface439
+        weight: 1
+      - path: polySurface439/polySurface445
+        weight: 1
+      - path: polySurface439/polySurface445/transform99
+        weight: 1
+      - path: polySurface439/polySurface446 1
+        weight: 1
+      - path: polySurface439/polySurface446 1/transform102
+        weight: 1
+      - path: polySurface439/polySurface447
+        weight: 1
+      - path: polySurface439/polySurface447/transform97
+        weight: 1
+      - path: polySurface439/polySurface448
+        weight: 1
+      - path: polySurface439/polySurface448/transform98
+        weight: 1
+      - path: polySurface439/polySurface449
+        weight: 1
+      - path: polySurface439/polySurface449/transform100
+        weight: 1
+      - path: polySurface439/polySurface450
+        weight: 1
+      - path: polySurface439/polySurface450/transform101
+        weight: 1
+      - path: polySurface439/transform96
+        weight: 1
+      - path: polySurface446
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: dandaocike gongjizhunbei2
+      takeName: dandaocike1
+      firstFrame: 174
+      lastFrame: 211
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface439
+        weight: 1
+      - path: polySurface439/polySurface445
+        weight: 1
+      - path: polySurface439/polySurface445/transform99
+        weight: 1
+      - path: polySurface439/polySurface446 1
+        weight: 1
+      - path: polySurface439/polySurface446 1/transform102
+        weight: 1
+      - path: polySurface439/polySurface447
+        weight: 1
+      - path: polySurface439/polySurface447/transform97
+        weight: 1
+      - path: polySurface439/polySurface448
+        weight: 1
+      - path: polySurface439/polySurface448/transform98
+        weight: 1
+      - path: polySurface439/polySurface449
+        weight: 1
+      - path: polySurface439/polySurface449/transform100
+        weight: 1
+      - path: polySurface439/polySurface450
+        weight: 1
+      - path: polySurface439/polySurface450/transform101
+        weight: 1
+      - path: polySurface439/transform96
+        weight: 1
+      - path: polySurface446
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

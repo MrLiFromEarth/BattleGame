@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: d4ced92be1bc64a2b9aeb7786b6950e6
+timeCreated: 1511175417
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: yuhangdaodanyuan:zhendiduyangou:joint1
+    100004: yuhangdaodanyuan:zhendiduyangou:joint10
+    100006: yuhangdaodanyuan:zhendiduyangou:joint10 1
+    100008: yuhangdaodanyuan:zhendiduyangou:joint11
+    100010: yuhangdaodanyuan:zhendiduyangou:joint12
+    100012: yuhangdaodanyuan:zhendiduyangou:joint2
+    100014: yuhangdaodanyuan:zhendiduyangou:joint3
+    100016: yuhangdaodanyuan:zhendiduyangou:joint4
+    100018: yuhangdaodanyuan:zhendiduyangou:joint5
+    100020: yuhangdaodanyuan:zhendiduyangou:joint6
+    100022: yuhangdaodanyuan:zhendiduyangou:joint7
+    100024: yuhangdaodanyuan:zhendiduyangou:joint7 1
+    100026: yuhangdaodanyuan:zhendiduyangou:joint8
+    100028: yuhangdaodanyuan:zhendiduyangou:joint8 1
+    100030: yuhangdaodanyuan:zhendiduyangou:joint9
+    100032: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10
+    100034: yuhangdaodanyuan:zhendiduyangou:nurbsCircle3
+    100036: "yuhangdaodanyuan:\u9884\u8BBE\u503D"
+    400000: //RootNode
+    400002: yuhangdaodanyuan:zhendiduyangou:joint1
+    400004: yuhangdaodanyuan:zhendiduyangou:joint10
+    400006: yuhangdaodanyuan:zhendiduyangou:joint10 1
+    400008: yuhangdaodanyuan:zhendiduyangou:joint11
+    400010: yuhangdaodanyuan:zhendiduyangou:joint12
+    400012: yuhangdaodanyuan:zhendiduyangou:joint2
+    400014: yuhangdaodanyuan:zhendiduyangou:joint3
+    400016: yuhangdaodanyuan:zhendiduyangou:joint4
+    400018: yuhangdaodanyuan:zhendiduyangou:joint5
+    400020: yuhangdaodanyuan:zhendiduyangou:joint6
+    400022: yuhangdaodanyuan:zhendiduyangou:joint7
+    400024: yuhangdaodanyuan:zhendiduyangou:joint7 1
+    400026: yuhangdaodanyuan:zhendiduyangou:joint8
+    400028: yuhangdaodanyuan:zhendiduyangou:joint8 1
+    400030: yuhangdaodanyuan:zhendiduyangou:joint9
+    400032: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10
+    400034: yuhangdaodanyuan:zhendiduyangou:nurbsCircle3
+    400036: "yuhangdaodanyuan:\u9884\u8BBE\u503D"
+    4300000: "yuhangdaodanyuan:\u9884\u8BBE\u503D"
+    7400000: yuhangdaodanyuan2
+    7400002: yuhangdaodanyuan zulou
+    7400004: yuhangdaodanyuan jingzhi
+    7400006: yuhangdaodanyuan gongji
+    7400008: yuhangdaodanyuan jiasu
+    9500000: //RootNode
+    13700000: "yuhangdaodanyuan:\u9884\u8BBE\u503D"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: yuhangdaodanyuan2
+      takeName: yuhangdaodanyuan2
+      firstFrame: 1
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4/yuhangdaodanyuan:zhendiduyangou:joint5
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9/yuhangdaodanyuan:zhendiduyangou:joint10
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12/yuhangdaodanyuan:zhendiduyangou:joint10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1/yuhangdaodanyuan:zhendiduyangou:joint8 1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7/yuhangdaodanyuan:zhendiduyangou:joint8
+        weight: 1
+      - path: "yuhangdaodanyuan:\u9884\u8BBE\u503D"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: yuhangdaodanyuan zulou
+      takeName: yuhangdaodanyuan2
+      firstFrame: 6
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4/yuhangdaodanyuan:zhendiduyangou:joint5
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9/yuhangdaodanyuan:zhendiduyangou:joint10
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12/yuhangdaodanyuan:zhendiduyangou:joint10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1/yuhangdaodanyuan:zhendiduyangou:joint8 1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7/yuhangdaodanyuan:zhendiduyangou:joint8
+        weight: 1
+      - path: "yuhangdaodanyuan:\u9884\u8BBE\u503D"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: yuhangdaodanyuan jingzhi
+      takeName: yuhangdaodanyuan2
+      firstFrame: 62
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4/yuhangdaodanyuan:zhendiduyangou:joint5
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9/yuhangdaodanyuan:zhendiduyangou:joint10
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12/yuhangdaodanyuan:zhendiduyangou:joint10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1/yuhangdaodanyuan:zhendiduyangou:joint8 1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7/yuhangdaodanyuan:zhendiduyangou:joint8
+        weight: 1
+      - path: "yuhangdaodanyuan:\u9884\u8BBE\u503D"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: yuhangdaodanyuan gongji
+      takeName: yuhangdaodanyuan2
+      firstFrame: 256
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4/yuhangdaodanyuan:zhendiduyangou:joint5
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9/yuhangdaodanyuan:zhendiduyangou:joint10
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12/yuhangdaodanyuan:zhendiduyangou:joint10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1/yuhangdaodanyuan:zhendiduyangou:joint8 1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7/yuhangdaodanyuan:zhendiduyangou:joint8
+        weight: 1
+      - path: "yuhangdaodanyuan:\u9884\u8BBE\u503D"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: yuhangdaodanyuan jiasu
+      takeName: yuhangdaodanyuan2
+      firstFrame: 400
+      lastFrame: 424
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint4/yuhangdaodanyuan:zhendiduyangou:joint5
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint9/yuhangdaodanyuan:zhendiduyangou:joint10
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint2/yuhangdaodanyuan:zhendiduyangou:joint3/yuhangdaodanyuan:zhendiduyangou:joint12/yuhangdaodanyuan:zhendiduyangou:joint10
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint6/yuhangdaodanyuan:zhendiduyangou:joint7
+          1/yuhangdaodanyuan:zhendiduyangou:joint8 1
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7
+        weight: 1
+      - path: yuhangdaodanyuan:zhendiduyangou:nurbsCircle10/yuhangdaodanyuan:zhendiduyangou:nurbsCircle3/yuhangdaodanyuan:zhendiduyangou:joint1/yuhangdaodanyuan:zhendiduyangou:joint11/yuhangdaodanyuan:zhendiduyangou:joint7/yuhangdaodanyuan:zhendiduyangou:joint8
+        weight: 1
+      - path: "yuhangdaodanyuan:\u9884\u8BBE\u503D"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

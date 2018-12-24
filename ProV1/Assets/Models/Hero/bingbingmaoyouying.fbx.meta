@@ -1,0 +1,1215 @@
+fileFormatVersion: 2
+guid: 71ea514f92e70430c9fe8f14f2cca5a9
+timeCreated: 1508038921
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: layintongzi:joint1
+    100004: layintongzi:joint10
+    100006: layintongzi:joint10 1
+    100008: layintongzi:joint11
+    100010: layintongzi:joint12
+    100012: layintongzi:joint2
+    100014: layintongzi:joint3
+    100016: layintongzi:joint4
+    100018: layintongzi:joint5
+    100020: layintongzi:joint6
+    100022: layintongzi:joint7
+    100024: layintongzi:joint7 1
+    100026: layintongzi:joint8
+    100028: layintongzi:joint8 1
+    100030: layintongzi:joint9
+    100032: layintongzi:nurbsCircle10
+    100034: layintongzi:nurbsCircle3
+    100036: pCube10
+    100038: pCube11
+    100040: pCube2
+    100042: polySurface224
+    100044: polySurface340
+    100046: polySurface340 1
+    100048: polySurface341
+    100050: polySurface342
+    100052: polySurface343
+    100054: polySurface344
+    100056: polySurface346
+    100058: polySurface348
+    100060: polySurface349
+    100062: polySurface350
+    100064: polySurface350 1
+    100066: polySurface351
+    100068: polySurface352
+    100070: polySurface353
+    100072: polySurface354
+    100074: polySurface355
+    100076: polySurface355 1
+    100078: polySurface356
+    100080: polySurface357
+    100082: polySurface358
+    100084: polySurface359
+    100086: transform1
+    100088: transform10
+    100090: transform11
+    100092: transform12
+    100094: transform13
+    100096: transform14
+    100098: transform15
+    100100: transform16
+    100102: transform17
+    100104: transform18
+    100106: transform19
+    100108: transform2
+    100110: transform20
+    100112: transform21
+    100114: transform22
+    100116: transform23
+    100118: transform24
+    100120: transform3
+    100122: transform4
+    100124: transform5
+    100126: transform6
+    100128: transform7
+    100130: transform8
+    100132: transform9
+    400000: //RootNode
+    400002: layintongzi:joint1
+    400004: layintongzi:joint10
+    400006: layintongzi:joint10 1
+    400008: layintongzi:joint11
+    400010: layintongzi:joint12
+    400012: layintongzi:joint2
+    400014: layintongzi:joint3
+    400016: layintongzi:joint4
+    400018: layintongzi:joint5
+    400020: layintongzi:joint6
+    400022: layintongzi:joint7
+    400024: layintongzi:joint7 1
+    400026: layintongzi:joint8
+    400028: layintongzi:joint8 1
+    400030: layintongzi:joint9
+    400032: layintongzi:nurbsCircle10
+    400034: layintongzi:nurbsCircle3
+    400036: pCube10
+    400038: pCube11
+    400040: pCube2
+    400042: polySurface224
+    400044: polySurface340
+    400046: polySurface340 1
+    400048: polySurface341
+    400050: polySurface342
+    400052: polySurface343
+    400054: polySurface344
+    400056: polySurface346
+    400058: polySurface348
+    400060: polySurface349
+    400062: polySurface350
+    400064: polySurface350 1
+    400066: polySurface351
+    400068: polySurface352
+    400070: polySurface353
+    400072: polySurface354
+    400074: polySurface355
+    400076: polySurface355 1
+    400078: polySurface356
+    400080: polySurface357
+    400082: polySurface358
+    400084: polySurface359
+    400086: transform1
+    400088: transform10
+    400090: transform11
+    400092: transform12
+    400094: transform13
+    400096: transform14
+    400098: transform15
+    400100: transform16
+    400102: transform17
+    400104: transform18
+    400106: transform19
+    400108: transform2
+    400110: transform20
+    400112: transform21
+    400114: transform22
+    400116: transform23
+    400118: transform24
+    400120: transform3
+    400122: transform4
+    400124: transform5
+    400126: transform6
+    400128: transform7
+    400130: transform8
+    400132: transform9
+    4300000: polySurface355
+    7400000: bingbingmaotouying3
+    7400002: bingbingmaotouying3 (1)
+    7400004: bingbingmaotouying zoulu
+    7400006: bingbingmaotouying jingzhi
+    7400008: bingbingmaotouying gongji
+    7400010: Run
+    9500000: //RootNode
+    13700000: polySurface355
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: bingbingmaotouying3
+      takeName: bingbingmaotouying3
+      firstFrame: 1
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: layintongzi:nurbsCircle10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4/layintongzi:joint5
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9/layintongzi:joint10
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12/layintongzi:joint10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1/layintongzi:joint8 1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7/layintongzi:joint8
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform12
+        weight: 1
+      - path: pCube10
+        weight: 1
+      - path: pCube10/transform11
+        weight: 1
+      - path: pCube11
+        weight: 1
+      - path: pCube11/polySurface350 1
+        weight: 1
+      - path: pCube11/polySurface350 1/transform18
+        weight: 1
+      - path: pCube11/polySurface351
+        weight: 1
+      - path: pCube11/polySurface351/transform16
+        weight: 1
+      - path: pCube11/polySurface352
+        weight: 1
+      - path: pCube11/polySurface352/transform17
+        weight: 1
+      - path: pCube11/polySurface353
+        weight: 1
+      - path: pCube11/polySurface353/transform15
+        weight: 1
+      - path: pCube11/polySurface354
+        weight: 1
+      - path: pCube11/polySurface354/transform14
+        weight: 1
+      - path: pCube11/transform13
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform5
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform4
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      - path: polySurface340/polySurface346
+        weight: 1
+      - path: polySurface340/polySurface346/transform10
+        weight: 1
+      - path: polySurface340/polySurface348
+        weight: 1
+      - path: polySurface340/polySurface348/transform9
+        weight: 1
+      - path: polySurface340/polySurface349
+        weight: 1
+      - path: polySurface340/polySurface349/transform8
+        weight: 1
+      - path: polySurface340/transform7
+        weight: 1
+      - path: polySurface350
+        weight: 1
+      - path: polySurface350/polySurface355 1
+        weight: 1
+      - path: polySurface350/polySurface355 1/transform24
+        weight: 1
+      - path: polySurface350/polySurface356
+        weight: 1
+      - path: polySurface350/polySurface356/transform22
+        weight: 1
+      - path: polySurface350/polySurface357
+        weight: 1
+      - path: polySurface350/polySurface357/transform23
+        weight: 1
+      - path: polySurface350/polySurface358
+        weight: 1
+      - path: polySurface350/polySurface358/transform21
+        weight: 1
+      - path: polySurface350/polySurface359
+        weight: 1
+      - path: polySurface350/polySurface359/transform20
+        weight: 1
+      - path: polySurface350/transform19
+        weight: 1
+      - path: polySurface355
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bingbingmaotouying3 (1)
+      takeName: bingbingmaotouying3
+      firstFrame: 1
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: layintongzi:nurbsCircle10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4/layintongzi:joint5
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9/layintongzi:joint10
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12/layintongzi:joint10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1/layintongzi:joint8 1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7/layintongzi:joint8
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform12
+        weight: 1
+      - path: pCube10
+        weight: 1
+      - path: pCube10/transform11
+        weight: 1
+      - path: pCube11
+        weight: 1
+      - path: pCube11/polySurface350 1
+        weight: 1
+      - path: pCube11/polySurface350 1/transform18
+        weight: 1
+      - path: pCube11/polySurface351
+        weight: 1
+      - path: pCube11/polySurface351/transform16
+        weight: 1
+      - path: pCube11/polySurface352
+        weight: 1
+      - path: pCube11/polySurface352/transform17
+        weight: 1
+      - path: pCube11/polySurface353
+        weight: 1
+      - path: pCube11/polySurface353/transform15
+        weight: 1
+      - path: pCube11/polySurface354
+        weight: 1
+      - path: pCube11/polySurface354/transform14
+        weight: 1
+      - path: pCube11/transform13
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform5
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform4
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      - path: polySurface340/polySurface346
+        weight: 1
+      - path: polySurface340/polySurface346/transform10
+        weight: 1
+      - path: polySurface340/polySurface348
+        weight: 1
+      - path: polySurface340/polySurface348/transform9
+        weight: 1
+      - path: polySurface340/polySurface349
+        weight: 1
+      - path: polySurface340/polySurface349/transform8
+        weight: 1
+      - path: polySurface340/transform7
+        weight: 1
+      - path: polySurface350
+        weight: 1
+      - path: polySurface350/polySurface355 1
+        weight: 1
+      - path: polySurface350/polySurface355 1/transform24
+        weight: 1
+      - path: polySurface350/polySurface356
+        weight: 1
+      - path: polySurface350/polySurface356/transform22
+        weight: 1
+      - path: polySurface350/polySurface357
+        weight: 1
+      - path: polySurface350/polySurface357/transform23
+        weight: 1
+      - path: polySurface350/polySurface358
+        weight: 1
+      - path: polySurface350/polySurface358/transform21
+        weight: 1
+      - path: polySurface350/polySurface359
+        weight: 1
+      - path: polySurface350/polySurface359/transform20
+        weight: 1
+      - path: polySurface350/transform19
+        weight: 1
+      - path: polySurface355
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bingbingmaotouying zoulu
+      takeName: bingbingmaotouying3
+      firstFrame: 6
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: layintongzi:nurbsCircle10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4/layintongzi:joint5
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9/layintongzi:joint10
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12/layintongzi:joint10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1/layintongzi:joint8 1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7/layintongzi:joint8
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform12
+        weight: 1
+      - path: pCube10
+        weight: 1
+      - path: pCube10/transform11
+        weight: 1
+      - path: pCube11
+        weight: 1
+      - path: pCube11/polySurface350 1
+        weight: 1
+      - path: pCube11/polySurface350 1/transform18
+        weight: 1
+      - path: pCube11/polySurface351
+        weight: 1
+      - path: pCube11/polySurface351/transform16
+        weight: 1
+      - path: pCube11/polySurface352
+        weight: 1
+      - path: pCube11/polySurface352/transform17
+        weight: 1
+      - path: pCube11/polySurface353
+        weight: 1
+      - path: pCube11/polySurface353/transform15
+        weight: 1
+      - path: pCube11/polySurface354
+        weight: 1
+      - path: pCube11/polySurface354/transform14
+        weight: 1
+      - path: pCube11/transform13
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform5
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform4
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      - path: polySurface340/polySurface346
+        weight: 1
+      - path: polySurface340/polySurface346/transform10
+        weight: 1
+      - path: polySurface340/polySurface348
+        weight: 1
+      - path: polySurface340/polySurface348/transform9
+        weight: 1
+      - path: polySurface340/polySurface349
+        weight: 1
+      - path: polySurface340/polySurface349/transform8
+        weight: 1
+      - path: polySurface340/transform7
+        weight: 1
+      - path: polySurface350
+        weight: 1
+      - path: polySurface350/polySurface355 1
+        weight: 1
+      - path: polySurface350/polySurface355 1/transform24
+        weight: 1
+      - path: polySurface350/polySurface356
+        weight: 1
+      - path: polySurface350/polySurface356/transform22
+        weight: 1
+      - path: polySurface350/polySurface357
+        weight: 1
+      - path: polySurface350/polySurface357/transform23
+        weight: 1
+      - path: polySurface350/polySurface358
+        weight: 1
+      - path: polySurface350/polySurface358/transform21
+        weight: 1
+      - path: polySurface350/polySurface359
+        weight: 1
+      - path: polySurface350/polySurface359/transform20
+        weight: 1
+      - path: polySurface350/transform19
+        weight: 1
+      - path: polySurface355
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bingbingmaotouying jingzhi
+      takeName: bingbingmaotouying3
+      firstFrame: 75
+      lastFrame: 273
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: layintongzi:nurbsCircle10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4/layintongzi:joint5
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9/layintongzi:joint10
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12/layintongzi:joint10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1/layintongzi:joint8 1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7/layintongzi:joint8
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform12
+        weight: 1
+      - path: pCube10
+        weight: 1
+      - path: pCube10/transform11
+        weight: 1
+      - path: pCube11
+        weight: 1
+      - path: pCube11/polySurface350 1
+        weight: 1
+      - path: pCube11/polySurface350 1/transform18
+        weight: 1
+      - path: pCube11/polySurface351
+        weight: 1
+      - path: pCube11/polySurface351/transform16
+        weight: 1
+      - path: pCube11/polySurface352
+        weight: 1
+      - path: pCube11/polySurface352/transform17
+        weight: 1
+      - path: pCube11/polySurface353
+        weight: 1
+      - path: pCube11/polySurface353/transform15
+        weight: 1
+      - path: pCube11/polySurface354
+        weight: 1
+      - path: pCube11/polySurface354/transform14
+        weight: 1
+      - path: pCube11/transform13
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform5
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform4
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      - path: polySurface340/polySurface346
+        weight: 1
+      - path: polySurface340/polySurface346/transform10
+        weight: 1
+      - path: polySurface340/polySurface348
+        weight: 1
+      - path: polySurface340/polySurface348/transform9
+        weight: 1
+      - path: polySurface340/polySurface349
+        weight: 1
+      - path: polySurface340/polySurface349/transform8
+        weight: 1
+      - path: polySurface340/transform7
+        weight: 1
+      - path: polySurface350
+        weight: 1
+      - path: polySurface350/polySurface355 1
+        weight: 1
+      - path: polySurface350/polySurface355 1/transform24
+        weight: 1
+      - path: polySurface350/polySurface356
+        weight: 1
+      - path: polySurface350/polySurface356/transform22
+        weight: 1
+      - path: polySurface350/polySurface357
+        weight: 1
+      - path: polySurface350/polySurface357/transform23
+        weight: 1
+      - path: polySurface350/polySurface358
+        weight: 1
+      - path: polySurface350/polySurface358/transform21
+        weight: 1
+      - path: polySurface350/polySurface359
+        weight: 1
+      - path: polySurface350/polySurface359/transform20
+        weight: 1
+      - path: polySurface350/transform19
+        weight: 1
+      - path: polySurface355
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bingbingmaotouying gongji
+      takeName: bingbingmaotouying3
+      firstFrame: 301
+      lastFrame: 325
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: layintongzi:nurbsCircle10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4/layintongzi:joint5
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9/layintongzi:joint10
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12/layintongzi:joint10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1/layintongzi:joint8 1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7/layintongzi:joint8
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform12
+        weight: 1
+      - path: pCube10
+        weight: 1
+      - path: pCube10/transform11
+        weight: 1
+      - path: pCube11
+        weight: 1
+      - path: pCube11/polySurface350 1
+        weight: 1
+      - path: pCube11/polySurface350 1/transform18
+        weight: 1
+      - path: pCube11/polySurface351
+        weight: 1
+      - path: pCube11/polySurface351/transform16
+        weight: 1
+      - path: pCube11/polySurface352
+        weight: 1
+      - path: pCube11/polySurface352/transform17
+        weight: 1
+      - path: pCube11/polySurface353
+        weight: 1
+      - path: pCube11/polySurface353/transform15
+        weight: 1
+      - path: pCube11/polySurface354
+        weight: 1
+      - path: pCube11/polySurface354/transform14
+        weight: 1
+      - path: pCube11/transform13
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform5
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform4
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      - path: polySurface340/polySurface346
+        weight: 1
+      - path: polySurface340/polySurface346/transform10
+        weight: 1
+      - path: polySurface340/polySurface348
+        weight: 1
+      - path: polySurface340/polySurface348/transform9
+        weight: 1
+      - path: polySurface340/polySurface349
+        weight: 1
+      - path: polySurface340/polySurface349/transform8
+        weight: 1
+      - path: polySurface340/transform7
+        weight: 1
+      - path: polySurface350
+        weight: 1
+      - path: polySurface350/polySurface355 1
+        weight: 1
+      - path: polySurface350/polySurface355 1/transform24
+        weight: 1
+      - path: polySurface350/polySurface356
+        weight: 1
+      - path: polySurface350/polySurface356/transform22
+        weight: 1
+      - path: polySurface350/polySurface357
+        weight: 1
+      - path: polySurface350/polySurface357/transform23
+        weight: 1
+      - path: polySurface350/polySurface358
+        weight: 1
+      - path: polySurface350/polySurface358/transform21
+        weight: 1
+      - path: polySurface350/polySurface359
+        weight: 1
+      - path: polySurface350/polySurface359/transform20
+        weight: 1
+      - path: polySurface350/transform19
+        weight: 1
+      - path: polySurface355
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: bingbingmaotouying3
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: layintongzi:nurbsCircle10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint4/layintongzi:joint5
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint9/layintongzi:joint10
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint2/layintongzi:joint3/layintongzi:joint12/layintongzi:joint10
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint6/layintongzi:joint7
+          1/layintongzi:joint8 1
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7
+        weight: 1
+      - path: layintongzi:nurbsCircle10/layintongzi:nurbsCircle3/layintongzi:joint1/layintongzi:joint11/layintongzi:joint7/layintongzi:joint8
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform12
+        weight: 1
+      - path: pCube10
+        weight: 1
+      - path: pCube10/transform11
+        weight: 1
+      - path: pCube11
+        weight: 1
+      - path: pCube11/polySurface350 1
+        weight: 1
+      - path: pCube11/polySurface350 1/transform18
+        weight: 1
+      - path: pCube11/polySurface351
+        weight: 1
+      - path: pCube11/polySurface351/transform16
+        weight: 1
+      - path: pCube11/polySurface352
+        weight: 1
+      - path: pCube11/polySurface352/transform17
+        weight: 1
+      - path: pCube11/polySurface353
+        weight: 1
+      - path: pCube11/polySurface353/transform15
+        weight: 1
+      - path: pCube11/polySurface354
+        weight: 1
+      - path: pCube11/polySurface354/transform14
+        weight: 1
+      - path: pCube11/transform13
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform5
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform4
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      - path: polySurface340/polySurface346
+        weight: 1
+      - path: polySurface340/polySurface346/transform10
+        weight: 1
+      - path: polySurface340/polySurface348
+        weight: 1
+      - path: polySurface340/polySurface348/transform9
+        weight: 1
+      - path: polySurface340/polySurface349
+        weight: 1
+      - path: polySurface340/polySurface349/transform8
+        weight: 1
+      - path: polySurface340/transform7
+        weight: 1
+      - path: polySurface350
+        weight: 1
+      - path: polySurface350/polySurface355 1
+        weight: 1
+      - path: polySurface350/polySurface355 1/transform24
+        weight: 1
+      - path: polySurface350/polySurface356
+        weight: 1
+      - path: polySurface350/polySurface356/transform22
+        weight: 1
+      - path: polySurface350/polySurface357
+        weight: 1
+      - path: polySurface350/polySurface357/transform23
+        weight: 1
+      - path: polySurface350/polySurface358
+        weight: 1
+      - path: polySurface350/polySurface358/transform21
+        weight: 1
+      - path: polySurface350/polySurface359
+        weight: 1
+      - path: polySurface350/polySurface359/transform20
+        weight: 1
+      - path: polySurface350/transform19
+        weight: 1
+      - path: polySurface355
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

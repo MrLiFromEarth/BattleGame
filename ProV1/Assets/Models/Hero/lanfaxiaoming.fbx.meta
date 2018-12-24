@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 105c72ece0bfe49f396f827377551ef1
+timeCreated: 1511103464
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint10 1
+    100006: joint11
+    100008: joint12
+    100010: joint2
+    100012: joint3
+    100014: joint4
+    100016: joint5
+    100018: joint6
+    100020: joint7
+    100022: joint7 1
+    100024: joint8
+    100026: joint8 1
+    100028: joint9
+    100030: //RootNode
+    100032: nurbsCircle10
+    100034: nurbsCircle3
+    100036: polySurface224
+    100038: polySurface340
+    100040: polySurface340 1
+    100042: polySurface341
+    100044: polySurface342
+    100046: polySurface343
+    100048: polySurface344
+    100050: transform1
+    100052: transform2
+    100054: transform3
+    100056: transform4
+    100058: transform5
+    100060: transform6
+    400000: joint1
+    400002: joint10
+    400004: joint10 1
+    400006: joint11
+    400008: joint12
+    400010: joint2
+    400012: joint3
+    400014: joint4
+    400016: joint5
+    400018: joint6
+    400020: joint7
+    400022: joint7 1
+    400024: joint8
+    400026: joint8 1
+    400028: joint9
+    400030: //RootNode
+    400032: nurbsCircle10
+    400034: nurbsCircle3
+    400036: polySurface224
+    400038: polySurface340
+    400040: polySurface340 1
+    400042: polySurface341
+    400044: polySurface342
+    400046: polySurface343
+    400048: polySurface344
+    400050: transform1
+    400052: transform2
+    400054: transform3
+    400056: transform4
+    400058: transform5
+    400060: transform6
+    4300000: polySurface340
+    7400000: lanfaxiaoming8
+    7400002: lanfaxiaoming zoulu
+    7400004: lanfaxiaoming jingzhi
+    7400006: lanfaxiaoming gongji
+    7400008: lanfaxiaoming jiasu
+    9500000: //RootNode
+    13700000: polySurface340
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: lanfaxiaoming8
+      takeName: lanfaxiaoming8
+      firstFrame: 1
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform4
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform5
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: lanfaxiaoming zoulu
+      takeName: lanfaxiaoming8
+      firstFrame: 6
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform4
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform5
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: lanfaxiaoming jingzhi
+      takeName: lanfaxiaoming8
+      firstFrame: 66
+      lastFrame: 185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform4
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform5
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: lanfaxiaoming gongji
+      takeName: lanfaxiaoming8
+      firstFrame: 38
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform4
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform5
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: lanfaxiaoming jiasu
+      takeName: lanfaxiaoming8
+      firstFrame: 262
+      lastFrame: 286
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint9/joint10 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint2/joint3/joint12/joint10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint6/joint7 1/joint8 1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle3/joint1/joint11/joint7/joint8
+        weight: 1
+      - path: polySurface224
+        weight: 1
+      - path: polySurface224/polySurface340 1
+        weight: 1
+      - path: polySurface224/polySurface340 1/transform6
+        weight: 1
+      - path: polySurface224/polySurface341
+        weight: 1
+      - path: polySurface224/polySurface341/transform4
+        weight: 1
+      - path: polySurface224/polySurface342
+        weight: 1
+      - path: polySurface224/polySurface342/transform5
+        weight: 1
+      - path: polySurface224/polySurface343
+        weight: 1
+      - path: polySurface224/polySurface343/transform2
+        weight: 1
+      - path: polySurface224/polySurface344
+        weight: 1
+      - path: polySurface224/polySurface344/transform3
+        weight: 1
+      - path: polySurface224/transform1
+        weight: 1
+      - path: polySurface340
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
